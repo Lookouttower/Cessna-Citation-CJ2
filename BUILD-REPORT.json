@@ -1,0 +1,106 @@
+{
+  "status": "PASS",
+  "source": "Original investor website ZIP",
+  "preserved": {
+    "financial_numbers": true,
+    "revenue_sections": true,
+    "investment_tiers": true,
+    "part_135_section": true,
+    "tax_section": true,
+    "return_summary": true,
+    "partners_section": true,
+    "video_section_layout": true
+  },
+  "changed": {
+    "aircraft": "Cessna Citation CJ2",
+    "images": "CJ2 imagery installed",
+    "hero_video": "Google Flow CJ2 video installed",
+    "new_section": "250-Tower Network",
+    "fonts": "Uploaded Montreal and Brittany files installed"
+  },
+  "missing_critical_strings": [],
+  "remaining_cirrus_references": [],
+  "missing_local_references": [],
+  "local_references_checked": 41,
+  "processed_images": {
+    "vision-air-to-air.jpg": {
+      "width": 1376,
+      "height": 768,
+      "size_kb": 232.0
+    },
+    "built-in-demand-feature.jpg": {
+      "width": 1200,
+      "height": 896,
+      "size_kb": 189.6
+    },
+    "part-135-management.jpg": {
+      "width": 1200,
+      "height": 896,
+      "size_kb": 282.3
+    },
+    "fly-as-owner.jpg": {
+      "width": 1200,
+      "height": 896,
+      "size_kb": 250.6
+    },
+    "network-250-towers.jpg": {
+      "width": 1200,
+      "height": 896,
+      "size_kb": 245.9
+    },
+    "gallery-air-to-air.jpg": {
+      "width": 1200,
+      "height": 896,
+      "size_kb": 189.6
+    },
+    "exterior-closeup.jpg": {
+      "width": 1376,
+      "height": 768,
+      "size_kb": 222.2
+    },
+    "gallery-aircraft-detail.jpg": {
+      "width": 1376,
+      "height": 768,
+      "size_kb": 179.0
+    },
+    "exterior-sunset.jpg": {
+      "width": 1376,
+      "height": 768,
+      "size_kb": 203.8
+    },
+    "cockpit-checklist.jpg": {
+      "width": 1376,
+      "height": 768,
+      "size_kb": 269.2
+    },
+    "cockpit-sunset.jpg": {
+      "width": 1376,
+      "height": 768,
+      "size_kb": 273.2
+    },
+    "interior-cabin.jpg": {
+      "width": 1376,
+      "height": 768,
+      "size_kb": 232.1
+    },
+    "interior-flightdeck.jpg": {
+      "width": 1376,
+      "height": 768,
+      "size_kb": 224.5
+    },
+    "gallery-private-cabin.jpg": {
+      "width": 1376,
+      "height": 768,
+      "size_kb": 237.8
+    }
+  },
+  "program_video_note": "The supplied 10-second CJ2 Flow clip is used temporarily in the full-program video slot so no Cirrus aircraft appears.",
+  "mobile_font_fix": {
+    "status": "PASS",
+    "correct_relative_path": "../fonts/",
+    "brittany_ttf_enabled": true,
+    "montreal_ttf_fallbacks_enabled": true,
+    "cache_version": "v3",
+    "missing_font_files": []
+  }
+}
